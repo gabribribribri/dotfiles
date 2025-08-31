@@ -49,3 +49,7 @@
 # Hyprland Window Manager
 !.config/hypr
 !.config/hypr/*
+
+# Btop config
+!.config/btop
+!.config/btop/btop.conf
