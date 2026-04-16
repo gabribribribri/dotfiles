@@ -1,4 +1,5 @@
-theme = "flexoki_dark"
+# theme = "flexoki_dark"
+theme = "ashen"
 
 [editor]
 middle-click-paste = false
